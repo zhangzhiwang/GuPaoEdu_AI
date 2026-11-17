@@ -22,7 +22,7 @@ import java.util.List;
 @Setter
 @Getter
 @AllArgsConstructor
-@NoArgsConstructor
+//@NoArgsConstructor
 public class ChatRequest {
     /** 用户的输入（提示词） */
     private String prompt;
